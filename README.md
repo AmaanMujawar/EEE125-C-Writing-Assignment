@@ -5,11 +5,11 @@ Assessed module, worth 33.3% of total module marks.
 ## Project Description 
 This program allows the user to **input** the number of resistors to be tested.
 
-The <u>max range</u> for the number of resistors that can be inputed by the user are between and including **2 - 10**.
+The <ins>max range</ins> for the number of resistors that can be inputed by the user are between and including **2 - 10**.
 
 Then, the program sequentially allows the user to **input** values for each of the resistors. The values inputed from the user are stored in an array. The values then are sequentially displayed to the user stating `Resistance Number` and the `value` associated with it.
 
-The <u>max range</u> of the resistor values that can be inputed by the user are between **1mOhms - 1MOhms**.
+The <ins>max range</ins> of the resistor values that can be inputed by the user are between **1mOhms - 1MOhms**.
 
 The program then asks the user to choose one of the following three options;
 
