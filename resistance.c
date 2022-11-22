@@ -54,7 +54,7 @@ int keyClearScreen() {                                                          
 int displayScreen(void) {                                                               // Displays useful information about
     printf("Resistance v1.6.8 \n");                                                     // the program
     printf("Calculate mean, stardard deviation & largest number from UI \n");
-    printf("GitHub: \n");
+    printf("GitHub: https://github.com/AmaanMujawar/EEE125-C-Writing-Assignment.git\n");
     keyClearScreen();
     return 0;
 }
