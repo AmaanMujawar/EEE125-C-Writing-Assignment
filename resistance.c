@@ -13,7 +13,7 @@
 // the code.
 // 
 // Amaan Mujawar - University of Sheffield
-// GitHub:...
+// GitHub:https://github.com/AmaanMujawar/EEE125-C-Writing-Assignment.git
 //
 
 #include <stdio.h>                                                                      // Defining Libraries used
