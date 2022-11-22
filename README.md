@@ -25,8 +25,9 @@ Finally, the program asks the user if they wish to start the program again and e
 ## Installing and running the project
 
 1. Clone the project using
+
     `git clone` https://github.com/AmaanMujawar/EEE125-C-Writing-Assignment.git
-    
+
     **or** alternatively download the zip file.
 
 2. Then navigate to the directory where the *resistance.c* file is located.
