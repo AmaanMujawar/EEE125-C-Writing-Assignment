@@ -14,8 +14,6 @@
 // 
 // Amaan Mujawar - University of Sheffield
 // GitHub:...
-// Email: aurmujawar1@sheffield.ac.uk
-// UCARD Registration Number: 200346294
 //
 
 #include <stdio.h>                                                                      // Defining Libraries used
