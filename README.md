@@ -26,7 +26,7 @@ Finally, the program asks the user if they wish to start the program again and e
 
 1. Clone the project using
 
-    `git clone` git@github.com:AmaanMujawar/EEE125-C-Writing-Assignment.git
+    `git clone` https://github.com/AmaanMujawar/EEE125-C-Writing-Assignment.git
 
     **or** alternatively download the zip file.
 
