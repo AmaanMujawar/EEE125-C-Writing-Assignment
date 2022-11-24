@@ -1,6 +1,5 @@
 # C Programming Writing Assignment 
 Submission for EEE125 C Programming Writing Assignment, Semester 1.
-Assessed module, worth 33.3% of total module marks.
 
 ## Project Description 
 This program allows the user to **input** the number of resistors to be tested.
