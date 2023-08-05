@@ -38,5 +38,3 @@ Finally, the program asks the user if they wish to start the program again and e
 4. Select **Add to Project** and browse the location of file *resistance.c*.
 5. To compile go to the `Execute` menu and select `Compile`.
 6. To run go to the `Execute` menu and select `Run`.
-
-The project file should now compile and run.
